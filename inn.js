@@ -9,7 +9,7 @@ function logi(){
    let y=password.value
    if ( x=='srikanth' && y =='1234')
    {
-      window.location.replace("win.html");
+      window.location.replace("afterlog.html");
    }
    else
    {
